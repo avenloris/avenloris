@@ -3,6 +3,13 @@
 <p align="center">I'm Avenloris, a programmer ;).</p>
 
 
+<a href="https://www.instagram.com/avenloris/">
+    <img width="30" src="https://github.com/user-attachments/assets/b45c7c91-929f-49ec-8b4f-3fcfa1ab1314" /> 
+  </a>
+  <a href="https://www.youtube.com/@Avenloris">
+    <img width="30" src="https://github.com/user-attachments/assets/fa77e5d8-5e67-421f-a200-652e7afc6dcb" /> 
+  </a>
+
 
 ## Languages & Skills
 <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png" /> Rust
