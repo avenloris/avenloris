@@ -13,5 +13,5 @@
 <img width="49" src="https://github.com/user-attachments/assets/446c7138-ef5f-48d1-b1b7-6180d303e027" /> Dart & Flutter!
 
 
-<img width="20" src="https://github.com/user-attachments/assets/d8d38e2e-49e2-4f93-ade5-fd61fd8f4380" /> Python
+<img width="20" src="https://github.com/user-attachments/assets/2770ad5f-c8ad-4a90-bbb8-f6e57df4c7d1" /> Python
 
