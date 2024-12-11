@@ -1,42 +1,20 @@
-<style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
-        }
-        .box {
-            width: 150px;
-            height: 100px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-size: 20px;
-            font-weight: bold;
-            color: black;
-            margin: 0 10px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        .instagram {
-            background-color: white;
-            color: #C13584; /* Instagram logo color */
-            border: 2px solid #C13584;
-        }
-        .youtube {
-            background-color: red;
-            color: white;
-        }
-    </style>
+
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <p align="center">I'm Avenloris, a programmer ;).</p>
 
 
-<div class="box instagram">Instagram</div>
-    <div class="box youtube">YouTube</div>
+ <table style="margin: auto; text-align: center;">
+        <tr>
+            <td style="width: 150px; height: 100px; background-color: white; border: 2px solid #C13584; color: #C13584; font-weight: bold; vertical-align: middle;">
+                Instagram
+            </td>
+            <td style="width: 20px;"></td>
+            <td style="width: 150px; height: 100px; background-color: red; color: white; font-weight: bold; vertical-align: middle;">
+                YouTube
+            </td>
+        </tr>
+ </table>
 
 
 ## Languages & Skills
