@@ -4,11 +4,13 @@
 
 
 <a href="https://www.instagram.com/avenloris/">
-    <img width="150" src="https://github.com/user-attachments/assets/b45c7c91-929f-49ec-8b4f-3fcfa1ab1314" /> 
+    <img width="70" src="https://github.com/user-attachments/assets/e187aca8-1f15-473b-9aba-703170865ea6" /> 
   </a>
   <a href="https://www.youtube.com/@Avenloris">
-    <img width="150" src="https://github.com/user-attachments/assets/fa77e5d8-5e67-421f-a200-652e7afc6dcb" /> 
+    <img width="70" src="![pngwing com](https://github.com/user-attachments/assets/145af319-4b95-4179-b46e-2c39f444a7b6)
+" /> 
   </a>
+
 
 
 ## Languages & Skills
