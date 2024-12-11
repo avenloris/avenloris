@@ -4,15 +4,15 @@
 
 
 <a href="https://www.instagram.com/avenloris/">
-    <h1>
+    <h3>
         My Instagram
-    </h1> 
+    </h3> 
   </a>
 
   <a href="https://www.youtube.com/@Avenloris">
-   ㅤ <h1>
+   ㅤ <h3>
         My Youtube
-    </h1> 
+    </h3> 
   </a>
 
 
