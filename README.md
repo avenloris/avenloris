@@ -4,17 +4,17 @@
 <p align="center">I'm Avenloris, a programmer ;).</p>
 
 
- <table style="margin: auto; text-align: center;">
+   <table style="margin: auto; text-align: center;">
         <tr>
             <td style="width: 150px; height: 100px; background-color: white; border: 2px solid #C13584; color: #C13584; font-weight: bold; vertical-align: middle;">
-                Instagram
+                <a href="https://www.instagram.com/avenloris/" target="_blank" style="text-decoration: none; color: #C13584;">Instagram</a>
             </td>
             <td style="width: 20px;"></td>
             <td style="width: 150px; height: 100px; background-color: red; color: white; font-weight: bold; vertical-align: middle;">
-                YouTube
+                <a href="https://www.youtube.com/@Avenloris" target="_blank" style="text-decoration: none; color: white;">YouTube</a>
             </td>
         </tr>
- </table>
+    </table>
 
 
 ## Languages & Skills
