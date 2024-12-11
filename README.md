@@ -1,27 +1,23 @@
-I am a passionate developer with experience in multiple programming languages and frameworks. My journey in programming started with C++, and since then, I have explored and utilized various technologies for diverse projects.
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-### Python
- - **Proficiency:** Learned and applied Python extensively in projects.
- - **Use Cases:** Basic Neural Network, automation, and Scripts.
-### Rust                                                                                           
- - **Proficiency:** Currently learning Rust.
- - **Focus:** Exploring its potential for systems programming and performance-critical applications.
-### Dart and Flutter
- - **Proficiency:** Basic knowledge of Dart and Flutter.
- - **Focus:** Building mobile applications for Android and iOS.
- ### C++                                                                                           
- - **Proficiency:** My first programming language, providing a strong foundation in programming concepts.
- - **Use Cases:** Performance-critical and object-oriented programming
+<p align="center">I'm Avenloris, a programmer ;).</p>
 
+<p align="center">
+  <a href="https://github.com/conaticus?tab=followers">
+    <img src="https://img.shields.io/github/followers/conaticus?style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://youtube.com/conaticus?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCRLHJ-7b4pjDpBBHAUXEvjQ?style=for-the-badge" />
+  </a>
+</p>
 
-
+## Languages & Skills
+<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png" /> Rust
 
 
+<img width="20" src="https://github.com/user-attachments/assets/3f6ab429-3ab2-4ff0-94a7-62d2cee5f6d9" /> C++ 
 
+<img width="20" src="https://github.com/user-attachments/assets/446c7138-ef5f-48d1-b1b7-6180d303e027" /> Dart & Flutter
 
-
-
-      ![image](https://github.com/user-attachments/assets/e9b720bc-6902-4702-87df-206898cb92ec)
-
-
+<img width="20" src="https://github.com/user-attachments/assets/c64f2160-49de-42a2-b14d-c6258bb74715" />Python
 
