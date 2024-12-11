@@ -19,5 +19,5 @@
 
 <img width="49" src="https://github.com/user-attachments/assets/446c7138-ef5f-48d1-b1b7-6180d303e027" /> Dart & Flutter
 
-<img width="20" src="https://github.com/user-attachments/assets/c64f2160-49de-42a2-b14d-c6258bb74715" />Python
+<img width="20" src="https://github.com/user-attachments/assets/c64f2160-49de-42a2-b14d-c6258bb74715" /> Python
 
