@@ -8,7 +8,7 @@
   </a>
   </br>
   <a href="https://www.youtube.com/@Avenloris">
-   ㅤㅤㅤㅤ <img width="50" src="https://github.com/user-attachments/assets/145af319-4b95-4179-b46e-2c39f444a7b6" /> 
+   ㅤ<img width="50" src="https://github.com/user-attachments/assets/145af319-4b95-4179-b46e-2c39f444a7b6" /> 
   </a>
 
 
