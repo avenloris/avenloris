@@ -12,6 +12,15 @@ I am a passionate developer with experience in multiple programming languages an
                                                                                             
  - **Proficiency:** My first programming language, providing a strong foundation in programming concepts.
  - **Use Cases:** Performance-critical and object-oriented programming
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/e9b720bc-6902-4702-87df-206898cb92ec)
 
 
